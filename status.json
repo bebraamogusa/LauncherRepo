@@ -1,6 +1,6 @@
 {
   "version": "1.31",
   "updatetext": "",
-  "link1": "https://cdn.discordapp.com/attachments/1099822942885531738/1126937765263724635/Launcher.exe",
-  "link2": "https://cdn.discordapp.com/attachments/1099822942885531738/1126937765611843734/minty.dll"
+  "launcherDownloadUrl": "https://cdn.discordapp.com/attachments/1099822942885531738/1126937765263724635/Launcher.exe",
+  "dllDownloadUrl": "https://cdn.discordapp.com/attachments/1099822942885531738/1126937765611843734/minty.dll"
 }
